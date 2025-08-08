@@ -1,6 +1,0 @@
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
-
-/* This line is the fix - it imports the styles from your App component */
-@import './App.jsx';
